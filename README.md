@@ -30,6 +30,7 @@ My current focus is **Backend Development, REST APIs, Authentication & Authoriza
 ### Database
 
 * MongoDB
+* SupaBase
 
 ### Languages
 
